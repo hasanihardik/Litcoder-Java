@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// change this class to main in Litcoder platform..
 class DevicesCount {
 
     public static void main(String[] args) {
