@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+// change the class to main in Litcoder..
 public class CommonElements {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
