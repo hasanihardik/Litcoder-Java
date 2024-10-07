@@ -15,8 +15,8 @@ import java.util.logging.Logger;
  * 20
  * 24
  */
-public class Main {
-    private static final Logger logger = Logger.getLogger(Main.class.getName());
+public class ParkVisitors {
+    private static final Logger logger = Logger.getLogger(ParkVisitors.class.getName());
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
